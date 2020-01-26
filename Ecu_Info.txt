@@ -1,0 +1,40 @@
+****************************************************************************************************************
+******************************* AUTOMOTIVE MODULE COMMUNICATION INFORMATION ************************************
+****************************************************************************************************************
+*********************************** CHRYSLER CAN - 11 BIT IDENTIFIER *******************************************
+****************************************************************************************************************
+  
+	1.  HVAC -- 783 -- 503 -- CAN-IHS -- 125k -- HEATING VENTILATION AIR CONDITIONING CONTROL MODULE
+	2.  ABS --- 747 -- 4C7 -- CAN-C ---- 500k -- ANTILOCK BRAKE SYSTEM MODULE
+	3.  ADCM -- 757 -- 4D7 -- CAN-C ---- 500k -- ACTIVE DAMPENING CONTROL MODULE
+	4.  ASCM -- 766 -- 4E6 -- CAN-C ---- 500k -- AIR SUSPENSIONCONTROL MODULE
+	5.  BCM --- 620 -- 504 -- CAN-C ---- 500k -- BODY CONTROL MODULE
+	6.  DDM --- 784 -- 504 -- CAN-IHS -- 125k -- DRIVERS DOOR MODULE
+	7.  PDM --- 785 -- 505 -- CAN-IHS -- 125k -- PASSENGER DOOR MODULE
+	8.  DTCM -- 74B -- 4CB -- CAN-C ---- 500k -- DRIVE TRAIN CONTROL MODULE
+	9.  FDCM -- 74C -- 4CC -- CAN-C ---- 500k -- FINAL DRIVE CONTROL/ALL WHEEL DRIVE MODULE
+	10. EPS --- 75A -- 4DA -- CAN-C ---- 500k -- ELECTRIC POWER STEERING MODULE
+	11. ICS --- 7BC -- 53C -- CAN-IHS -- 125k -- INTEGRATED CENTER STACK
+	12. IPC --- 742 -- 4C2 -- CAN-C ---- 500k -- INSTRUMENT PANEL CLUSTER
+	13. ORC --- 744 -- 4C4 -- CAN-C ---- 500k -- OCCUPANT RESTRAINT/AIR BAG MODULE
+	14. PCM --- 7E0 -- 7E8 -- CAN-C ---- 500k -- POWERTRAIN CONTROL MODULE
+	15. PTS --- 698 -- 513 -- CAN-IHS -- 125k -- PARKTRONICS CONTROL MODULE
+	16. RADIO - 7BF -- 53F -- CAN-IHS -- 125k -- RADIO
+	17. RFH --- 740 -- 4C0 -- CAN-C ---- 500k -- RADIO FREQUENCY HUB
+	18. SCCM -- 123 -- 321 -- CAN-IHS -- 125k -- STEERING COLUMN CONTROL MODULE
+	19. SGW --- 47E -- 47F -- CAN-C ---- 500k -- SECURITY GATEWAY MODULE
+	20. TCM --- 7E1 -- 7E9 -- CAN-C ---- 500k -- TRANSMISSION CONTROL MODULE
+	21. TIPM -- 620 -- 504 -- CAN-C ---- 500k -- TOTALLY INTEGRATED POWER MODULE
+	22. TPM --- 743 -- 4C3 -- CAN-C ---- 500k -- TIRE PRESSURE MONITOR MODULE
+	23. VES --- 7D0 -- 53A -- CAN-B ---- ???? -- VEHICLE ENTERTAINMENT SYSTEM/REAR TV & DVD PLAYER, VES2, VES3
+
+******************************************************************************************************************
+*********************************** CHRYSLER EXTENDED CAN - 29 BIT IDENTIFIER ************************************
+******************************************************************************************************************
+
+	1. SCCM -- 18DA86F1 -- 18DAF186 -- CAN-C -- 500k -- STEERING COLUMN CONTROL MODULE
+	2. SGW --- 18DACBF2 -- 18DAF2CB -- CAN-C -- 500k -- SECURITY GATEWAY MODULE
+	3. PCM --- 18DAF110 -- 18DA10F1 -- CAN-C -- 500k -- POWERTRAIN CONTROL MODULE
+	
+******************************************************************************************************************
+******************************************************************************************************************
