@@ -36,6 +36,7 @@
 	1. SCCM -- 18DA86F1 -- 18DAF186 -- CAN-C -- 500k -- STEERING COLUMN CONTROL MODULE
 	2. SGW --- 18DACBF2 -- 18DAF2CB -- CAN-C -- 500k -- SECURITY GATEWAY MODULE
 	3. PCM --- 18DAF110 -- 18DA10F1 -- CAN-C -- 500k -- POWERTRAIN CONTROL MODULE
+	4. BCM --- 18DA40F1 -- 18DAF140 -- CAN-C -- 500k -- BODY CONTROL MODULE
 	
 ******************************************************************************************************************
 ******************************************************************************************************************
